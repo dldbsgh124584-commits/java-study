@@ -4,7 +4,7 @@ public class 정규식_2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        System.out.println("Hello".matches("H*llo"));
+        System.out.println("Hello".matches("He*llo"));
         System.out.println("ho".matches("h.*o"));
         // h.*o
         //  -- 임의의 한글자가 있을 수도 없을 수도 있다

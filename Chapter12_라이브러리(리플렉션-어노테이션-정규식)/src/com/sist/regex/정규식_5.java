@@ -6,6 +6,5 @@ public class 정규식_5 {
 		// TODO Auto-generated method stub
         System.out.println("hello".matches("^h.*o$"));
         System.out.println("hello".matches("^h.*"));
-	}
-
+   }
 }
